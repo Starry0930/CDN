@@ -1,6 +1,8 @@
 # CDN
 解决方法：
 
+https://cdn.jsdelivr.net/gh/Starry0930/CDN@main/test.jpg
+
 使用 cdn.jsdelivr.net 未受污染的子域：
 fastly.jsdelivr.net，由 Fastly 提供 本站使用
 
